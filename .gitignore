@@ -1,0 +1,24 @@
+.ipynb_checkpoints/
+.virtual_documents/
+.vscode
+*.csv
+*.npy
+*.html
+*.txt
+*.ckpt
+*.mp4
+*.flv
+*.pdf
+*.xml
+*.pyc
+#CaseFlies/NetworkSecurityToolkit/Server_last_and_lastb_file/ali_ipv4_info.py
+
+
+IDCard_processing/record.json
+0History_file/
+CaseFlies/NetworkSecurityToolkit
+!/IPAddress_processing/ip_status_table.csv
+!/身份证区号旧版.csv
+!/身份证区号新版.csv
+!/月份中英文对照.csv
+! /中英文星期对照1.csv

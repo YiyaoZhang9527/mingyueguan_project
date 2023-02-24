@@ -1,0 +1,3 @@
+from atemon.EmailValidator import EmailValidator
+v = EmailValidator()
+print(v.is_valid('something@gmail.com'))
