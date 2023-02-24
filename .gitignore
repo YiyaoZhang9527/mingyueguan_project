@@ -16,7 +16,7 @@
 
 IDCard_processing/record.json
 0History_file/
-CaseFlies/NetworkSecurityToolkit
+CaseFlies/NetworkSecurityToolkit/
 !/IPAddress_processing/ip_status_table.csv
 !/身份证区号旧版.csv
 !/身份证区号新版.csv
